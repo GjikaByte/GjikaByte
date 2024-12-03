@@ -1,13 +1,19 @@
-👋 Hi, I'm Andi Gjika!
+Hi, I'm Andi
+---
+
 I'm a quantitative finance enthusiast with a strong foundation in financial modeling, risk management, and programming. My passion lies in leveraging data-driven insights and mathematical models to solve complex challenges in trading and quantitative analysis.
 
 🗺️ Based in Haarlem, Netherlands
+
 📚 MSc in Finance from EDHEC Business School
+
 🎓 BSc in Automation Engineering from Politecnico di Milano
+
 ✉️ Contact me at andi.gjika@outlook.com
 
-
 📄 Experiences
+---
+
 
 📊 OTC FLOW – Middle Office, Data Analyst
 
@@ -23,18 +29,23 @@ Executed swaps and derivatives across multiple asset classes, incorporating quan
 
 
 👀 **Interests**
+---
+
 - Deep learning and reinforcement learning in trading
 - Quantitative risk management and financial modeling
 - Machine learning applications for financial markets
 
 🌱 **Currently Learning**
+---
+
 - Quantitative risk management methodologies
 - Numerical methods for solving partial differential equations (PDEs)
 - Pricing and valuation of sustainable commodities
 
----
 
 🔨 **Languages**:
+---
+
 <p>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
   <a href="https://www.sql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" /></a>
@@ -42,17 +53,19 @@ Executed swaps and derivatives across multiple asset classes, incorporating quan
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" /></a>
 </p>
 
----
 
 ⚙️ **Frameworks**:
+---
+
 <p>
   <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" /></a>
   <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /></a>
 </p>
 
----
 
 📫 **How to Reach Me**:
+---
+
 <p>
   <a href="https://www.linkedin.com/in/andi-gjika-887538b8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a>
 </p>
