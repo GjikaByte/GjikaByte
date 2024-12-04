@@ -17,7 +17,7 @@ I'm a quantitative finance enthusiast with a strong foundation in financial mode
 
 📊 OTC FLOW – Middle Office, Data Analyst
 
-Designed and implemented dashboards using Power BI to enhance portfolio tracking, inventory management, and financial reporting. Migrated workflows from Excel to a centralized database, ensuring data accuracy and enabling advanced analytics with Python, SQL, and Power Query. Resolved trade discrepancies in sustainable commodities and optimized settlement workflows, providing data-driven insights to support risk management and strategic decision-making.
+Designed and implemented dashboards using Power BI to enhance portfolio tracking, inventory management, and financial reporting. Migrated workflows from Excel to a centralized database, ensuring data accuracy and enabling advanced analytics with Python and SQL. Resolved trade discrepancies in sustainable commodities and optimized settlement workflows, providing data-driven insights to support risk management and strategic decision-making.
 
 📈 Pertento Partners – Trader
 
