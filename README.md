@@ -25,21 +25,22 @@ Managed global equity and fixed income trades, focusing on executing quantitativ
 
 📉 IG Prime – Institutional Sales Trader
 
-Executed swaps and derivatives across multiple asset classes, incorporating quantitative approaches to enhance trading efficiency and ensure regulatory compliance. Automated operational workflows using VBA and analyzed large datasets to support electronic trading systems. Contributed to optimizing trading execution while maintaining strong relationships with market participants and stakeholders.
+Executed swaps and derivatives across multiple asset classes, incorporating quantitative approaches to enhance trading efficiency and ensure regulatory compliance. Automated trading processes using VBA, improving operational efficiency and streamlining trade execution. Conducted in-depth data analysis for electronic trading operations with SQL and Power BI.
 
 
 👀 **Interests**
 ---
 
-- Deep learning and reinforcement learning in trading
+- Data engineering and data science applications in trading and finance
+- Building scalable ETL pipelines and advanced analytics tools
 - Quantitative risk management and financial modeling
-- Machine learning applications for financial markets
+- Deep learning and reinforcement learning in trading
 
 🌱 **Currently Learning**
 ---
 
-- Quantitative risk management methodologies
-- Numerical methods for solving partial differential equations (PDEs)
+- Data engineering with SQL, Python and Apache Spark
+- Integration of machine learning techniques into trading systems
 - Pricing and valuation of sustainable commodities
 
 
