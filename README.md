@@ -1,7 +1,7 @@
 Hi, I'm Andi
 ---
 
-I'm a quantitative finance enthusiast with a strong foundation in financial modeling, risk management, and programming. My passion lies in leveraging data-driven insights and mathematical models to solve complex challenges in trading and quantitative analysis.
+I'm a data and trading enthusiast with a strong foundation in financial modeling, risk management, and programming. My passion lies in leveraging data-driven insights and mathematical models to solve complex challenges in trading and quantitative analysis.
 
 🗺️ Based in Haarlem, Netherlands
 
@@ -17,7 +17,7 @@ I'm a quantitative finance enthusiast with a strong foundation in financial mode
 
 📊 OTC FLOW – Middle Office, Data Analyst
 
-Designed and implemented dashboards using Power BI to enhance portfolio tracking, inventory management, and financial reporting. Migrated workflows from Excel to a centralized database, ensuring data accuracy and enabling advanced analytics with Python and SQL. Resolved trade discrepancies in sustainable commodities and optimized settlement workflows, providing data-driven insights to support risk management and strategic decision-making.
+Developed and optimized data pipelines using SQL and Python, facilitating efficient data extraction, transformation, and loading (ETL) processes for portfolio tracking and financial reporting. Resolved trade discrepancies in sustainable commodities and optimized settlement workflows, providing data-driven insights to support risk management and strategic decision-making.
 
 📈 Pertento Partners – Trader
 
