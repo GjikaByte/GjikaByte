@@ -1,7 +1,7 @@
 Hi, I'm Andi
 ---
 
-I'm a data and trading enthusiast with extensive experience in financial modeling and programming. I specialize in leveraging data engineering and analytics to drive decision-making and optimize trading strategies.
+I'm a data and trading enthusiast with extensive experience in financial modeling and programming. I specialise in leveraging data engineering and analytics to drive decision-making and optimise trading strategies.
 
 🗺️ Based in Haarlem, Netherlands
 
@@ -17,19 +17,19 @@ I'm a data and trading enthusiast with extensive experience in financial modelin
 
 📊 OTC FLOW – Middle Office, Data Analyst
 
-At OTC Flow, I focus on developing and optimizing data pipelines using SQL and Python to streamline ETL processes for portfolio tracking and financial reporting. By leveraging PySpark, I analyze large datasets to provide actionable insights for sustainable commodities trading. Additionally, I automated reporting workflows using Python and Power BI, which improved operational efficiency and enabled real-time data visualization. My role also includes ensuring data integrity during database migrations, enhancing the reliability of analytics and quantitative analysis.
+At OTC Flow, I focus on developing and optimising data pipelines using SQL and Python to streamline ETL processes for portfolio tracking and financial reporting. By leveraging PySpark, I analyze large datasets to provide actionable insights for sustainable commodities trading. Additionally, I automated reporting workflows using Python and Power BI, which improved operational efficiency and enabled real-time data visualization. My role also includes ensuring data integrity during database migrations, enhancing the reliability of analytics and quantitative analysis.
 
 💹 Freelance Data Analyst
 
-As a freelance data analyst, I collaborated with SMEs in Abruzzo, Italy to help them structure and manage their data and accounting workflows. Using Excel and Power BI, I created customized dashboards and reporting systems that empowered businesses to make data-driven decisions. My efforts contributed to improving operational transparency and efficiency, tailored to the unique needs of each client.
+As a freelance data analyst, I help clients structure and manage their data and accounting workflows. Using Excel and Power BI, I design dashboards and reporting systems that empower businesses to make data-driven decisions. My efforts contribute to improving operational transparency and efficiency.
 
 📈 Pertento Partners – Trader
 
-Managed global equity and fixed income trades, focusing on executing quantitative strategies to optimize performance and minimize market impact. Developed risk models to analyze sector and regional exposures, supported by hedging strategies aligned with portfolio objectives. Evaluated primary and secondary deal opportunities with a focus on sustainability and scalability, adapting to dynamic market conditions.
+At Pertento, I managed global equity and fixed income trades, focusing on executing quantitative strategies to optimise performance and minimise market impact. I developed risk models to analyse sector and regional exposures, supported by hedging strategies aligned with portfolio objectives. I evaluated primary and secondary deal opportunities with a focus on sustainability and scalability, adapting to dynamic market conditions.
 
 📉 IG Prime – Institutional Sales Trader
 
-Executed swaps and derivatives across multiple asset classes, incorporating quantitative approaches to enhance trading efficiency and ensure regulatory compliance. Automated trading processes using VBA, improving operational efficiency and streamlining trade execution. Conducted in-depth data analysis for electronic trading operations with SQL and Power BI.
+I executed swaps and derivatives across multiple asset classes, incorporating quantitative approaches to enhance trading efficiency and ensure regulatory compliance. I automated trading processes using VBA, improving operational efficiency and streamlining trade execution. I conducted in-depth data analysis for electronic trading operations with SQL and Power BI.
 
 
 👀 **Interests**
