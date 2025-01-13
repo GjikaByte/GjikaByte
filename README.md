@@ -1,7 +1,7 @@
 Hi, I'm Andi
 ---
 
-I'm a data and trading enthusiast with a strong foundation in financial modeling, risk management, and programming. My passion lies in leveraging data-driven insights and mathematical models to solve complex challenges in trading and quantitative analysis.
+I'm a data and trading enthusiast with extensive experience in financial modeling and programming. I specialize in leveraging data engineering and analytics to drive decision-making and optimize trading strategies.
 
 🗺️ Based in Haarlem, Netherlands
 
@@ -17,7 +17,11 @@ I'm a data and trading enthusiast with a strong foundation in financial modeling
 
 📊 OTC FLOW – Middle Office, Data Analyst
 
-Developed and optimized data pipelines using SQL and Python, facilitating efficient data extraction, transformation, and loading (ETL) processes for portfolio tracking and financial reporting. Resolved trade discrepancies in sustainable commodities and optimized settlement workflows, providing data-driven insights to support risk management and strategic decision-making.
+At OTC Flow, I focus on developing and optimizing data pipelines using SQL and Python to streamline ETL processes for portfolio tracking and financial reporting. By leveraging PySpark, I analyze large datasets to provide actionable insights for sustainable commodities trading. Additionally, I automated reporting workflows using Python and Power BI, which improved operational efficiency and enabled real-time data visualization. My role also includes ensuring data integrity during database migrations, enhancing the reliability of analytics and quantitative analysis.
+
+💹 Freelance Data Analyst
+
+As a freelance data analyst, I collaborated with SMEs in Abruzzo, Italy to help them structure and manage their data and accounting workflows. Using Excel and Power BI, I created customized dashboards and reporting systems that empowered businesses to make data-driven decisions. My efforts contributed to improving operational transparency and efficiency, tailored to the unique needs of each client.
 
 📈 Pertento Partners – Trader
 
@@ -33,7 +37,6 @@ Executed swaps and derivatives across multiple asset classes, incorporating quan
 
 - Data engineering and data science applications in trading and finance
 - Building scalable ETL pipelines and advanced analytics tools
-- Quantitative risk management and financial modeling
 - Deep learning and reinforcement learning in trading
 
 🌱 **Currently Learning**
@@ -41,7 +44,7 @@ Executed swaps and derivatives across multiple asset classes, incorporating quan
 
 - Data engineering with SQL, Python and Apache Spark
 - Integration of machine learning techniques into trading systems
-- Pricing and valuation of sustainable commodities
+- Valuation and analytics for sustainable commodities
 
 
 🔨 **Languages**:
@@ -70,3 +73,16 @@ Executed swaps and derivatives across multiple asset classes, incorporating quan
 <p>
   <a href="https://www.linkedin.com/in/andi-gjika-887538b8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a>
 </p>
+
+<p>
+  <a href="https://www.upwork.com/freelancers/~01863a3bc23f4f77c4" target="_blank">Upwork Profile</a>
+</p>
+
+
+<p>
+  <a href="https://www.fiverr.com/andigjika185/buying?source=avatar_menu_profile" target="_blank">Fiverr Profile</a>
+</p>
+
+
+
+
