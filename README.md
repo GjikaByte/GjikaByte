@@ -3,7 +3,7 @@ Hi, I'm Andi
 
 I'm a data and trading enthusiast with extensive experience in financial modeling and programming. I specialise in leveraging data engineering and analytics to drive decision-making and optimise trading strategies.
 
-🗺️ Based in Haarlem, Netherlands
+🗺️ Based in the Netherlands
 
 📚 MSc in Finance from EDHEC Business School
 
