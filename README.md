@@ -5,7 +5,7 @@ I'm a data and trading enthusiast with extensive experience in financial modelin
 
 🗺️ Based in the Netherlands
 
-📚 MSc in Finance from EDHEC Business School
+📚 MSc in Finance from EDHEC
 
 🎓 BSc in Automation Engineering from Politecnico di Milano
 
