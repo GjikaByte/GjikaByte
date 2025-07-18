@@ -3,7 +3,7 @@ Hi, I'm Andi
 
 I'm a data and trading enthusiast with extensive experience in financial modeling and programming. I specialise in leveraging data engineering and analytics to drive decision-making and optimise trading strategies.
 
-🗺️ Based in the Netherlands
+🗺️ Based in the Italy
 
 📚 MSc in Finance from EDHEC
 
@@ -17,11 +17,7 @@ I'm a data and trading enthusiast with extensive experience in financial modelin
 
 📊 OTC FLOW – Middle Office, Data Analyst
 
-At OTC Flow, I focus on developing and optimising data pipelines using SQL and Python to streamline ETL processes for portfolio tracking and financial reporting. By leveraging PySpark, I analyze large datasets to provide actionable insights for sustainable commodities trading. Additionally, I automated reporting workflows using Python and Power BI, which improved operational efficiency and enabled real-time data visualization. My role also includes ensuring data integrity during database migrations, enhancing the reliability of analytics and quantitative analysis.
-
-💹 Freelance Data Analyst
-
-As a freelance data analyst, I help clients structure and manage their data and accounting workflows. Using Excel and Power BI, I design dashboards and reporting systems that empower businesses to make data-driven decisions. My efforts contribute to improving operational transparency and efficiency.
+At OTC Flow, I focused on developing and optimising data pipelines using SQL and Python to streamline ETL processes for portfolio tracking and financial reporting. By leveraging PySpark, I analyze large datasets to provide actionable insights for sustainable commodities trading. Additionally, I automated reporting workflows using Python and Power BI, which improved operational efficiency and enabled real-time data visualization. My role also includes ensuring data integrity during database migrations, enhancing the reliability of analytics and quantitative analysis.
 
 📈 Pertento Partners – Trader
 
