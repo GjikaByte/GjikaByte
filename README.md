@@ -38,9 +38,9 @@ I executed swaps and derivatives across multiple asset classes, incorporating qu
 🌱 **Currently Learning**
 ---
 
-- Data engineering with SQL, Python and Apache Spark
-- Integration of machine learning techniques into trading systems
-- Valuation and analytics for sustainable commodities
+- Full stack web development, including front-end and back-end technologies
+- Building interactive web applications with JavaScript frameworks
+- Developing server-side logic and APIs
 
 
 🔨 **Languages**:
