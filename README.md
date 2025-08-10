@@ -17,7 +17,7 @@ I'm a data and trading enthusiast with extensive experience in financial modelin
 
 📊 OTC FLOW – Middle Office, Data Analyst
 
-At OTC Flow, I focused on developing and optimising data pipelines using SQL and Python to streamline ETL processes for portfolio tracking and financial reporting. By leveraging PySpark, I analyze large datasets to provide actionable insights for sustainable commodities trading. Additionally, I automated reporting workflows using Python and Power BI, which improved operational efficiency and enabled real-time data visualization. My role also includes ensuring data integrity during database migrations, enhancing the reliability of analytics and quantitative analysis.
+At OTC Flow, I focused on developing and optimising data pipelines using SQL and Python to streamline ETL processes for portfolio tracking and financial reporting. By leveraging PySpark, I analyzed large datasets to provide actionable insights for sustainable commodities trading. Additionally, I automated reporting workflows using Python and Power BI, which improved operational efficiency and enabled real-time data visualization. My role also included ensuring data integrity during database migrations, enhancing the reliability of analytics and quantitative analysis.
 
 📈 Pertento Partners – Trader
 
@@ -49,6 +49,7 @@ I executed swaps and derivatives across multiple asset classes, incorporating qu
 <p>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
   <a href="https://www.sql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" /></a>
 </p>
