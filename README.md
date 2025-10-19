@@ -38,7 +38,7 @@ I executed swaps and derivatives across multiple asset classes, incorporating qu
 🌱 **Currently Learning**
 ---
 
-- Full stack web development, including front-end and back-end technologies
+- Front end web development
 - Building interactive web applications with JavaScript frameworks
 - Developing server-side logic and APIs
 
