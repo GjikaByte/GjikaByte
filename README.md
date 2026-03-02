@@ -9,10 +9,10 @@ My background spans trading, risk modeling, data engineering, and AI application
 
 I specialize in:
 
-Designing scalable ETL pipelines and analytics infrastructures
-Applying machine learning and quantitative models to financial markets
-Automating reporting and trading workflows
-Turning complex financial data into actionable insights
+Designing scalable ETL pipelines and analytics infrastructures. 
+Applying machine learning and quantitative models to financial markets. 
+Automating reporting and trading workflows. 
+Turning complex financial data into actionable insights. 
 
 🗺️ Based in Italy
 
@@ -23,57 +23,43 @@ Turning complex financial data into actionable insights
 
 📄 Experience
 ETFbook – Data Analyst
-Develop and optimize data pipelines for ETF analytics and portfolio intelligence
-Automate reporting workflows and improve data quality processes
-Design structured datasets to support financial analysis and decision-making
-Contribute to scalable analytics systems for ETF market insights
+Develop and optimize data pipelines for ETF analytics and portfolio intelligence. 
+Automate reporting workflows and improve data quality processes. 
+Design structured datasets to support financial analysis and decision-making. 
+Contribute to scalable analytics systems for ETF market insights. 
 
 OTC Flow – Data Analyst & Middle Office
-Built end-to-end ETL pipelines using SQL, Python, and PySpark for real-time portfolio tracking
-Led data validation and transformation during database migration
-Automated financial and sustainability reporting with Python and Power BI
-Supported risk and trading analytics through data-driven insights
+Built end-to-end ETL pipelines using SQL, Python, and PySpark for real-time portfolio tracking. 
+Led data validation and transformation during database migration. 
+Automated financial and sustainability reporting with Python and Power BI. 
+Supported risk and trading analytics through data-driven insights. 
 
 Pertento Partners – Trader
-Executed global equity and fixed income trades using quantitative strategies
-Developed sector and regional exposure risk models
-Evaluated primary and secondary deal opportunities
-Implemented hedging strategies aligned with portfolio objectives
+Executed global equity and fixed income trades using quantitative strategies. 
+Developed sector and regional exposure risk models. 
+Evaluated primary and secondary deal opportunities. 
+Implemented hedging strategies aligned with portfolio objectives. 
 
 IG Prime – Institutional Sales Trader
-Executed swaps and derivatives across multiple asset classes
-Automated trading workflows using VBA
-Built monitoring dashboards using SQL and Power BI
-Applied quantitative analysis to enhance execution efficiency
-
-👀 Interests
-
-AI & Machine Learning applications in trading
-Quantitative research and systematic strategies
-Building scalable data platforms
-Reinforcement learning in finance
+Executed swaps and derivatives across multiple asset classes. 
+Automated trading workflows using VBA. 
+Built monitoring dashboards using SQL and Power BI. 
+Applied quantitative analysis to enhance execution efficiency. 
 
 🌱 Currently Learning
 
-Front-end web development
-Building interactive applications with JavaScript frameworks
-Designing backend APIs and scalable architectures
-
-
-🌱 Currently Learning
-
-Advanced data architecture for financial analytics platforms
-Designing scalable data models for ETF and portfolio intelligence
-Productionizing machine learning models for financial use cases
-Cloud-based data engineering workflows and orchestration
+Advanced data architecture for financial analytics platforms. 
+Designing scalable data models for ETF and portfolio intelligence. 
+Productionizing machine learning models for financial use cases. 
+Cloud-based data engineering workflows and orchestration. 
 
 👀 Interests
 
-ETF analytics, portfolio transparency, and market microstructure
-Scalable data engineering for financial intelligence systems
-AI-driven insights for asset management and trading
-Quantitative research and systematic strategy development
-Automation of financial reporting and decision-support systems
+ETF analytics, portfolio transparency, and market microstructure. 
+Scalable data engineering for financial intelligence systems. 
+AI-driven insights for asset management and trading. 
+Quantitative research and systematic strategy development. 
+Automation of financial reporting and decision-support systems. 
 
 
 🔨 **Languages**:
