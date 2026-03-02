@@ -23,28 +23,28 @@ Turning complex financial data into actionable insights.
 
 📄 Experience
 
-ETFbook – Data Analyst.
+ETFbook – Data Analyst
 
 Develop and optimize data pipelines for ETF analytics and portfolio intelligence. 
 Automate reporting workflows and improve data quality processes. 
 Design structured datasets to support financial analysis and decision-making. 
 Contribute to scalable analytics systems for ETF market insights. 
 
-OTC Flow – Data Analyst & Middle Office.
+OTC Flow – Data Analyst & Middle Office
 
 Built end-to-end ETL pipelines using SQL, Python, and PySpark for real-time portfolio tracking. 
 Led data validation and transformation during database migration. 
 Automated financial and sustainability reporting with Python and Power BI. 
 Supported risk and trading analytics through data-driven insights. 
 
-Pertento Partners – Trader.
+Pertento Partners – Trader
 
 Executed global equity and fixed income trades using quantitative strategies. 
 Developed sector and regional exposure risk models. 
 Evaluated primary and secondary deal opportunities. 
 Implemented hedging strategies aligned with portfolio objectives. 
 
-IG Prime – Institutional Sales Trader.
+IG Prime – Institutional Sales Trader
 
 Executed swaps and derivatives across multiple asset classes. 
 Automated trading workflows using VBA. 
