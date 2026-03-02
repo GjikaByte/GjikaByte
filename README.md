@@ -22,6 +22,7 @@ Turning complex financial data into actionable insights.
 ✉️ andi.gjika@outlook.com
 
 📄 Experience
+
 ETFbook – Data Analyst
 Develop and optimize data pipelines for ETF analytics and portfolio intelligence. 
 Automate reporting workflows and improve data quality processes. 
