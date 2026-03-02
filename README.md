@@ -112,14 +112,6 @@ Automation of financial reporting and decision-support systems.
   <a href="https://www.linkedin.com/in/andi-gjika-887538b8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a>
 </p>
 
-<p>
-  <a href="https://www.upwork.com/freelancers/~01863a3bc23f4f77c4" target="_blank">Upwork Profile</a>
-</p>
-
-
-<p>
-  <a href="https://www.fiverr.com/andigjika185/buying?source=avatar_menu_profile" target="_blank">Fiverr Profile</a>
-</p>
 
 
 
